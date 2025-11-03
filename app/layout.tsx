@@ -15,7 +15,7 @@ const poppins = Poppins({
 })
 
 export const metadata: Metadata = {
-  title: "Al-Abbar General Contracting | Dubai Interior Design & Fit-Out",
+  title: "Demo Interior V2",
   description:
     "Leading interior design and fit-out company in Dubai, UAE. Transform your spaces with precision and passion.",
   generator: "v0.app",
